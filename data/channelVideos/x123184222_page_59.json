@@ -418,10 +418,10 @@
         },
         {
             "id": "123075319",
-            "title": "SYPHON FILTER GAMES - Evolution",
+            "title": "SYPHON FILTER GAMES - Evolution is a Mystery",
             "date_created": "1508371344",
             "loginId": "1759045",
-            "tags": null,
+            "tags": "",
             "description": "The EVOLUTION videos, I'm bringing a list of all games from a franchise. Stay connected with me: https:\/\/lnk.bio\/andrewluiz List of all games in the v\u00eddeo 01.",
             "asset": {
                 "type": "youtube",
@@ -432,7 +432,9 @@
                 "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/92vwSRyp0IU\/maxresdefault.jpg",
                 "videoId": "92vwSRyp0IU",
                 "mediaDuration": 151,
-                "prettyDuration": "00:02:31"
+                "prettyDuration": "00:02:31",
+                "uploadAsset": false,
+                "quality": ""
             },
             "parentId": "123184222",
             "url": "\/c1\/syphon-filter-games-evolution\/123184222-123075319"
