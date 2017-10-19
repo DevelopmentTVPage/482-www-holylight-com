@@ -1,9 +1,9 @@
 {
-    "title": "Spain supporters hold rally near Barcelona",
-    "description": "(5 Oct 2017) Dozens of pro-Spain protesters held a rally in Sant Boi, on the outskirts of Barcelona, on Thursday to show their support for the Spanish Civil Guard.\r\nWaving Spanish flags, the pro-unity demonstrators showed their support for the national police force.\r\nMore than 890 civilians were treated for injuries, most of them not serious, following clashes during Sunday's Catalan independence referendum, according to Catalan regional health authorities. \r\nPolice using batons, and some firing rubber bullets, cleared protesters hoping to vote. \r\nSpain's Interior Ministry says 431 National Police and Civil Guard agents were injured in the clashes.\r\n\r\n\r\nYou can license this story through AP Archive: http:\/\/www.aparchive.com\/metadata\/youtube\/856cbe49ad1711a38dc61225ed17c9fa \r\nFind out more about AP Archive: http:\/\/www.aparchive.com\/HowWeWork",
+    "title": "fg",
+    "description": "(5 Oct 2017) Dozens of pro-Spain protesters held a rally in Sant Boi, on the outskirts of Barcelona, on Thursday to show their support for the Spanish Civil Guard.\nWaving Spanish flags, the pro-unity demonstrators showed their support for the national police force.\nMore than 890 civilians were treated for injuries, most of them not serious, following clashes during Sunday's Catalan independence referendum, according to Catalan regional health authorities. \nPolice using batons, and some firing rubber bullets, cleared protesters hoping to vote. \nSpain's Interior Ministry says 431 National Police and Civil Guard agents were injured in the clashes.\n\n\nYou can license this story through AP Archive: http:\/\/www.aparchive.com\/metadata\/youtube\/856cbe49ad1711a38dc61225ed17c9fa \nFind out more about AP Archive: http:\/\/www.aparchive.com\/HowWeWork",
     "referenceId": "O2b8EsrGf2g",
     "date_created": "1507660516",
-    "date_modified": "1508436410",
+    "date_modified": "1508456090",
     "tags": "",
     "sourceId": "4",
     "status": "approved",
@@ -22,7 +22,7 @@
         "25"
     ],
     "tvp_profiles_manual": "",
-    "tvp_profiles_maxscore": 705.6324,
+    "tvp_profiles_maxscore": 689.79846,
     "VIDEO_LENGTH": "SHORT",
     "duration": 64,
     "settings": "",
@@ -36,7 +36,9 @@
         "author": "AP Archive",
         "mediaDuration": 64,
         "prettyDuration": "00:01:04",
-        "views": "55"
+        "views": "55",
+        "uploadAsset": false,
+        "quality": ""
     },
     "transcripts": "",
     "metrics_statistics": ""
