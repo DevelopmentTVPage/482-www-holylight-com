@@ -397,10 +397,10 @@
         },
         {
             "id": "123075320",
-            "title": "[HD] Syphon Filter PlayStation Evolution (1999-2007)",
+            "title": "[HD] Syphon Filter PlayStation Evolution (1999-2007) - IS Awesome",
             "date_created": "1508371348",
             "loginId": "1759045",
-            "tags": null,
+            "tags": "",
             "description": "All Syphon Filter game evolution only for PlayStation console, (PS1, PS2, PSP) Follow me : Twitter : https:\/\/twitter.com\/M_Rhomi Instagram ...",
             "asset": {
                 "type": "youtube",
@@ -411,7 +411,9 @@
                 "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8JQgYjXw9d8\/maxresdefault.jpg",
                 "videoId": "8JQgYjXw9d8",
                 "mediaDuration": 366,
-                "prettyDuration": "00:06:06"
+                "prettyDuration": "00:06:06",
+                "uploadAsset": false,
+                "quality": ""
             },
             "parentId": "123184222",
             "url": "\/c1\/hd-syphon-filter-playstation-evolution-1999-2007\/123184222-123075320"
