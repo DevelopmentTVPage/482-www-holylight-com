@@ -1,10 +1,10 @@
 {
-    "title": "Syphon Filter 1 Bosses",
+    "title": "asdf",
     "description": "This video contains all bosses from Syphon Filter 1 and their themes. Credit goes to 989 Studios and to Chuck Doud. The game is a little faster, because of fitting ...",
     "referenceId": "DGKiDAuGKlY",
     "date_created": "1508371351",
-    "date_modified": "1508371351",
-    "tags": null,
+    "date_modified": "1508455961",
+    "tags": "",
     "sourceId": "4",
     "status": "approved",
     "visibility": "1",
@@ -17,9 +17,11 @@
     "entityType": "1",
     "titleTextEncoded": "Syphon-Filter-1-Bosses",
     "category": null,
-    "tvp_profiles": null,
+    "tvp_profiles": [
+        "25"
+    ],
     "tvp_profiles_manual": null,
-    "tvp_profiles_maxscore": 0,
+    "tvp_profiles_maxscore": 377.51303,
     "VIDEO_LENGTH": "LONG",
     "duration": 425,
     "settings": null,
@@ -32,7 +34,9 @@
         "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/DGKiDAuGKlY\/sddefault.jpg",
         "videoId": "DGKiDAuGKlY",
         "mediaDuration": 425,
-        "prettyDuration": "00:07:05"
+        "prettyDuration": "00:07:05",
+        "uploadAsset": false,
+        "quality": ""
     },
     "transcripts": null,
     "metrics_statistics": null
